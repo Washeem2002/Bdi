@@ -14,7 +14,7 @@ app.use(cors({
 const lawyers_fetch=require("./Routes/lawyers-fetch");
 app.use(lawyers_fetch);
 
-mongoose.connect('mongodb+srv://kadrunnisha2:nTgxCdip3Ec5rRSM@intenship.oqexe5i.mongodb.net/LMS?retryWrites=true&w=majority&appName=intenship').then(()=>{console.log("connected mongo")});
+mongoose.connect(process.env.MONGO_URL).then(()=>{console.log("connected mongo")});
 //static files
 app.use(express.static(path.join(__dirname,"../frontend/build")));
 app.get("*",(req,res)=>{
