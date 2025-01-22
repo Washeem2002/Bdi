@@ -1,0 +1,36 @@
+[
+    {
+        "image":"d1",
+        "name":"Advocate Wg Cdr Ajit Kakkar",
+        "Speciality":"Specialist in Service Matters",
+        "Experience":"51 Years",
+        "location":"High Court, Labour & Service, NRI, R.T.I",
+        
+        "cost":9000,
+        "content":"Advocate Ajit Kakkar is a Military Law & Service Law Consultant, Specialist in Service Matters, Military Law, Courts-Martial, Military Service litigation and matrimonial Issues. As a Military Advocate dealing with Army Law, Navy Law and Air Force Law, he had taken Premature Retirement from Air Force in 2012 and his last appointment was Joint Judge Advocate General (Air)."   
+     },{
+         "image":"D2",
+         "name":"Advocate Suksham Aggarwal",
+         "Speciality":"Family Lawyer",
+         "Experience":"10 Years",
+         "location":"District and Sessions Court, Ambala",
+         "content":"Advocate Suksham Aggarwal has been practicing and handling cases independently with a result oriented approach, both professionally and ethically and has now acquired excellent professional experience in providing legal consultancy and advisory services.",
+         "cost":"2000"
+
+
+
+     },
+     {
+        "image":"D3",
+        "name":"Advocate Sunil Kumar Bakshi",
+        "Speciality":"Family Lawyer",
+        "Experience":"20 Years",
+        "location":"District and Sessions Court, Ambala",
+        "content":"Advocate Sunil Kumar Bakshi has been practicing and handling cases independently with a result oriented approach, both professionally and ethically and has now acquired excellent professional experience in providing legal consultancy and advisory services.",
+        "cost":"4000"
+
+
+
+    }
+
+]
